@@ -1,0 +1,27 @@
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.exe.config
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.exe
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.pdb
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.AssemblyReference.cache
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.FormPrincipal.resources
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio1.resources
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio2.resources
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio3.resources
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Properties.Resources.resources
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.GenerateResource.cache
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.CoreCompileInputs.cache
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.exe
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.pdb
+C:\Users\The Famili\OneDrive\Escritorio\Programacion 3\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.exe.config
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.exe.config
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.exe
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\bin\Debug\TP1_GRUPO_7.pdb
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.AssemblyReference.cache
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.FormPrincipal.resources
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio1.resources
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio2.resources
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Frm_Ejercicio3.resources
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.Properties.Resources.resources
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.GenerateResource.cache
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.csproj.CoreCompileInputs.cache
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.exe
+C:\Users\Pupi\Downloads\TP1_GRUPO_7_v29\TP1_GRUPO_7_v28\TP1_GRUPO_7\obj\Debug\TP1_GRUPO_7.pdb
